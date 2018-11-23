@@ -64,7 +64,6 @@ class AddContact extends Component {
                     value={phone}
                     onChange={this.onChange}
                   />
-
                   <input
                     type="submit"
                     value="Add Contact"
